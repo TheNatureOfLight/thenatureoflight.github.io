@@ -1,0 +1,14 @@
+# Site Settings
+title: The Nature Of Light
+email: TheNatureOfLight@gmail.com
+description: >
+  A Guide to Demystifing the Mathmatics of Spectral Rendering.
+baseurl: ""
+url: "http://localhost:4000"
+github_username:  TheNatureOfLight
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
